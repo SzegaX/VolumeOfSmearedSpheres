@@ -1,5 +1,8 @@
 function XTVolumeOfSmearedSpheres(aImarisApplicationID)
 
+% Created by Gábor Szegvári in 2019. You are free to use this script or to create derivatives if you attribute it to me properly.
+% https://github.com/SzegaX/VolumeOfSmearedSpheres
+
 % connect to Imaris interface
 if ~isa(aImarisApplicationID, 'Imaris.IApplicationPrxHelper')
     javaaddpath ImarisLib.jar
