@@ -1,6 +1,6 @@
 function XTVolumeOfSmearedSpheres(aImarisApplicationID)
 
-% Created by Gábor Szegvári in 2019. You are free to use this script or to create derivatives if you attribute it to me properly.
+% Created by Gábor Szegvári in 2019. Licensed under the Apache License, Version 2.0.
 % https://github.com/SzegaX/VolumeOfSmearedSpheres
 
 % connect to Imaris interface
