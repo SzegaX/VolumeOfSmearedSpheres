@@ -1,0 +1,7 @@
+<CustomTools>
+<Menu>
+<Item name="Volume of Smeared Spheres" icon="Matlab" tooltip="Works on a Surfaces object. Creates .csv file as output">
+<Command>MatlabExe::8.4::XTVolumeOfSmearedSpheres %i</Command>
+</Item>
+</Menu>
+</CustomTools>
